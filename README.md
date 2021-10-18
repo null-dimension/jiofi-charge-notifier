@@ -1,6 +1,9 @@
 # jiofi-charge-notifier
 Notifies when jiofi charge is more or less than the specified amount
 
+# Supported Device
+JMR541
+
 **Tested only in Windows 10 Home**
 
 # Usage
